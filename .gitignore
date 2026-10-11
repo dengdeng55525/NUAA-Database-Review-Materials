@@ -1,0 +1,17 @@
+# Word documents and original submission notes are excluded.
+*.[dD][oO][cC]
+*.[dD][oO][cC][xXmM]
+*.[dD][oO][tT]
+*.[dD][oO][tT][xXmM]
+*.[wW][bB][kK]
+~$*
+/README.txt
+
+# Local files.
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
